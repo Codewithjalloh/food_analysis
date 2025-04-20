@@ -27,12 +27,6 @@ Additional analysis script with:
 - Initial data exploration
 - Basic statistical analysis
 
-### 4. `food_main.py`
-Main script for:
-- Data loading and preprocessing
-- Basic data manipulation
-- Initial data exploration
-
 ## Analysis Features
 
 ### 1. Global Price Trends
